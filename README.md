@@ -1,2 +1,2 @@
-# Finacial-Control
+# Financial-Control
 Financial management application
