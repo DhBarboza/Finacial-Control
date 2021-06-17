@@ -7,3 +7,22 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
 }
+
+.container {
+    width: min(90vw, 800px);
+    margin: auto;
+}
+
+header {
+    background: linear-gradient(to right, #1565c0, #1de9b6);
+    padding: 2rem 0 10rem;
+    text-align: center;
+}
+
+header h1 {
+    color: azure;
+}
+
+#control {
+    margin-top: -8rem;
+}
